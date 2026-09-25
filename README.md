@@ -95,15 +95,6 @@ Capacitaciones de Java, Spring Boot y GitHub para bootcamps de ingreso y equipos
 
 ---
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaquinMayor&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMayor&layout=compact&hide_border=true" alt="Lenguajes más usados" height="165"/>
-</p>
-
----
-
 <p align="center">
   <i>🌐 Español (nativo) · Inglés (B2)</i>
 </p>
